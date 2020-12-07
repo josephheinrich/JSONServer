@@ -2,8 +2,24 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
-    }
+      "Playername": "Tommy",
+      "Runscore": 55
+    },
+    {
+      "id": 2,
+      "Playername": "Barry",
+      "Runscore": 50
+    },
+    {
+      "id": 3,
+      "Playername": "Chesterton",
+      "Runscore": 30
+    },
+    {
+      "id": 4,
+      "Playername": "Justin",
+      "Runscore": 40
+    },
   ],
   "profile": {
     "name": "typicode"
